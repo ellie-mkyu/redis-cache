@@ -1,4 +1,4 @@
-package com.test.rediscache.Board;
+package com.test.rediscache.board;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

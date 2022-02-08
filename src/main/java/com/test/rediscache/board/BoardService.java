@@ -1,4 +1,4 @@
-package com.test.rediscache.Board;
+package com.test.rediscache.board;
 
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

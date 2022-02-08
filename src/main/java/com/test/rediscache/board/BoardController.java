@@ -1,4 +1,4 @@
-package com.test.rediscache.Board;
+package com.test.rediscache.board;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
